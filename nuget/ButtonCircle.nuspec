@@ -43,15 +43,6 @@
      <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.iOS\bin\iPhone\Release\ButtonCircle.FormsPlugin.Abstractions.dll" target="lib\Xamarin.iOS10\ButtonCircle.FormsPlugin.Abstractions.dll" />
      <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.iOS\bin\iPhone\Release\ButtonCircle.FormsPlugin.Abstractions.xml" target="lib\Xamarin.iOS10\ButtonCircle.FormsPlugin.Abstractions.xml" />
 
-     <!--UWP-->
-       <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.UWP\bin\Release\ButtonCircle.FormsPlugin.UWP.dll" target="lib\UAP10\ButtonCircle.FormsPlugin.UWP.dll" />
-       <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.UWP\bin\Release\ButtonCircle.FormsPlugin.UWP.xml" target="lib\UAP10\ButtonCircle.FormsPlugin.UWP.xml" />
-       <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.UWP\bin\Release\ButtonCircle.FormsPlugin.UWP.pdb" target="lib\UAP10\ButtonCircle.FormsPlugin.UWP.pdb" />
-       <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.Abstractions\bin\Release\ButtonCircle.FormsPlugin.Abstractions.dll" target="lib\UAP10\ButtonCircle.FormsPlugin.Abstractions.dll" />
-       <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.Abstractions\bin\Release\ButtonCircle.FormsPlugin.Abstractions.xml" target="lib\UAP10\ButtonCircle.FormsPlugin.Abstractions.xml" />
-       <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.Abstractions\bin\Release\ButtonCircle.FormsPlugin.Abstractions.pdb" target="lib\UAP10\ButtonCircle.FormsPlugin.Abstractions.pdb" />
-
-       <file src="../src/ButtonCircle\ButtonCircle.FormsPlugin.UWP\Assets\Fonts\MaterialIcons-Regular.ttf" target="content\UAP10\ButtonCircle.FormsPlugin.UWP\Assets\Fonts\MaterialIcons-Regular.ttf" />
-      
+     
 </files>
 </package>
