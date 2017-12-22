@@ -145,7 +145,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TestAppButtonCircle\TestAppButtonCircle.csproj">
-      <Project>{787eb1e4-bf66-4bf9-9eaf-cdbc624c52d4}</Project>
+      <Project>{57F55231-1714-40F7-9CF5-EE3FBC41DC25}</Project>
       <Name>TestAppButtonCircle</Name>
     </ProjectReference>
   </ItemGroup>
